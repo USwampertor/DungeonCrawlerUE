@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonCrawlerUE",
+			"Path": "..\\Source\\DungeonCrawlerUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonCrawlerUEEditor",
+			"Path": "..\\Source\\DungeonCrawlerUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

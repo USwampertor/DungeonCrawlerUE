@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/DungeonCrawlerUE/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/Scenes/Test.umap",
+				"D:/Projects/DungeonCrawlerUE/Content/Scenes/Test_BuiltData.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/InputActions/IAMove.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/InputActions/IMCharacter.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/InputActions/IALook.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/InputActions/IADash.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/InputActions/IAAttack.uasset",
+				"D:/Projects/DungeonCrawlerUE/Content/StarterContent/Maps/StarterMap.umap"
+			]
+		}
+	]
+}

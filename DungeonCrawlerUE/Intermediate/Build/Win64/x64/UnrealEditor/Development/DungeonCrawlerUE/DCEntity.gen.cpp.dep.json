@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\dungeoncrawlerue\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeoncrawlerue\\uht\\dcentity.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\dungeoncrawlerue\\intermediate\\build\\win64\\x64\\dungeoncrawlerueeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\dungeoncrawlerue\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeoncrawlerue\\definitions.dungeoncrawlerue.h",
+            "d:\\projects\\dungeoncrawlerue\\source\\dungeoncrawlerue\\public\\dcentity.h",
+            "d:\\projects\\dungeoncrawlerue\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeoncrawlerue\\uht\\dcentity.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

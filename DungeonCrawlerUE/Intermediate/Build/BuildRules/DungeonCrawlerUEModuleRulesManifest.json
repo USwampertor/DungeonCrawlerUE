@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\DungeonCrawlerUE\\Source\\DungeonCrawlerUE\\DungeonCrawlerUE.Build.cs",
+		"D:\\Projects\\DungeonCrawlerUE\\Source\\DungeonCrawlerUE.Target.cs",
+		"D:\\Projects\\DungeonCrawlerUE\\Source\\DungeonCrawlerUEEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DungeonCrawlerUE.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DungeonCrawlerUE.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DungeonCrawlerUEEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DungeonCrawlerUE">
+      <UniqueIdentifier>{64F03236-4BBA-3459-83D1-330C820AD04F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DungeonCrawlerUE\DungeonCrawlerUE.Build.cs">
+      <Filter>Source\DungeonCrawlerUE</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\DungeonCrawlerUE.cpp">
+      <Filter>Source\DungeonCrawlerUE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\DungeonCrawlerUE.h">
+      <Filter>Source\DungeonCrawlerUE</Filter>
+    </ClInclude>
+    <Filter Include="Source\DungeonCrawlerUE\Private">
+      <UniqueIdentifier>{E2D87319-0286-3762-9923-2FA2A637368E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\Private\DCCamera.cpp">
+      <Filter>Source\DungeonCrawlerUE\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\Private\DCCharacter.cpp">
+      <Filter>Source\DungeonCrawlerUE\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\Private\DCCharacterTest.cpp">
+      <Filter>Source\DungeonCrawlerUE\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\Private\DCController.cpp">
+      <Filter>Source\DungeonCrawlerUE\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\Private\DCEnemy.cpp">
+      <Filter>Source\DungeonCrawlerUE\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DungeonCrawlerUE\Private\DCEntity.cpp">
+      <Filter>Source\DungeonCrawlerUE\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DungeonCrawlerUE\Public">
+      <UniqueIdentifier>{F4674EDF-36E7-3F04-AD6A-2CDE21D03534}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\Public\DCCamera.h">
+      <Filter>Source\DungeonCrawlerUE\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\Public\DCCharacter.h">
+      <Filter>Source\DungeonCrawlerUE\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\Public\DCCharacterTest.h">
+      <Filter>Source\DungeonCrawlerUE\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\Public\DCController.h">
+      <Filter>Source\DungeonCrawlerUE\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\Public\DCEnemy.h">
+      <Filter>Source\DungeonCrawlerUE\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DungeonCrawlerUE\Public\DCEntity.h">
+      <Filter>Source\DungeonCrawlerUE\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
